@@ -1,0 +1,326 @@
+[
+  {
+    "contact_id": "C-1001",
+    "name": "Liu Wei",
+    "job_title": "CMO",
+    "email": null,
+    "phone": null,
+    "decision_power": "Unknown",
+    "company_name": "Mercury Consulting"
+  },
+  {
+    "contact_id": "C-1002",
+    "name": "Liu Wei",
+    "job_title": "Head of Growth",
+    "email": "liu.wei@growthtech.com",
+    "phone": null,
+    "decision_power": "maybe",
+    "company_name": "GrowthTech"
+  },
+  {
+    "contact_id": "C-1003",
+    "name": "Maya Patel",
+    "job_title": "Head of Sales",
+    "email": "maya.patel@mercuryconsulting.com",
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "Mercury Consulting"
+  },
+  {
+    "contact_id": "C-1004",
+    "name": "Tom Becker",
+    "job_title": "Engineering Manager",
+    "email": "tom.becker@growthtech.com",
+    "phone": "+1-5021065922",
+    "decision_power": "yes",
+    "company_name": "GrowthTech"
+  },
+  {
+    "contact_id": "C-1005",
+    "name": "Sarah Johnson",
+    "job_title": "Engineering Manager",
+    "email": "sarah.johnson@mercuryconsulting.com",
+    "phone": "+1-2857931587",
+    "decision_power": "yes",
+    "company_name": "Mercury Consulting"
+  },
+  {
+    "contact_id": "C-1006",
+    "name": "Rajesh Kumar",
+    "job_title": "Procurement Manager",
+    "email": "rajesh.kumar@nexoraai.com",
+    "phone": "+1-9721755821",
+    "decision_power": "maybe",
+    "company_name": "Nexora AI"
+  },
+  {
+    "contact_id": "C-1007",
+    "name": "Maya Patel",
+    "job_title": "CTO",
+    "email": null,
+    "phone": null,
+    "decision_power": "no",
+    "company_name": "BlueWave Analytics"
+  },
+  {
+    "contact_id": "C-1008",
+    "name": "Ana Rodrigues",
+    "job_title": "COO",
+    "email": null,
+    "phone": "+1-9595158870",
+    "decision_power": "maybe",
+    "company_name": "Nexora AI"
+  },
+  {
+    "contact_id": "C-1009",
+    "name": "Chloe Martin",
+    "job_title": "VP Product",
+    "email": "chloe.martin@cloudfusion.com",
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "CloudFusion"
+  },
+  {
+    "contact_id": "C-1010",
+    "name": "Tom Becker",
+    "job_title": "CMO",
+    "email": "tom.becker@astramanufacturing.com",
+    "phone": null,
+    "decision_power": "no",
+    "company_name": "Astra Manufacturing"
+  },
+  {
+    "contact_id": "C-1011",
+    "name": "Maya Patel",
+    "job_title": "CMO",
+    "email": "maya.patel@greenlineenergy.com",
+    "phone": null,
+    "decision_power": "maybe",
+    "company_name": "GreenLine Energy"
+  },
+  {
+    "contact_id": "C-1012",
+    "name": "Omar Khalid",
+    "job_title": "COO",
+    "email": "omar.khalid@growthtech.com",
+    "phone": null,
+    "decision_power": "maybe",
+    "company_name": "GrowthTech"
+  },
+  {
+    "contact_id": "C-1013",
+    "name": "Jacob Stein",
+    "job_title": "Engineering Manager",
+    "email": null,
+    "phone": "+1-8283251923",
+    "decision_power": "no",
+    "company_name": "GrowthTech"
+  },
+  {
+    "contact_id": "C-1014",
+    "name": "Ana Rodrigues",
+    "job_title": "Procurement Manager",
+    "email": "ana.rodrigues@cloudfusion.com",
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "CloudFusion"
+  },
+  {
+    "contact_id": "C-1015",
+    "name": "Liu Wei",
+    "job_title": "VP Product",
+    "email": null,
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "Nexora AI"
+  },
+  {
+    "contact_id": "C-1016",
+    "name": "Omar Khalid",
+    "job_title": "Head of Sales",
+    "email": null,
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "FinEdge Systems"
+  },
+  {
+    "contact_id": "C-1017",
+    "name": "Rajesh Kumar",
+    "job_title": "Engineering Manager",
+    "email": "rajesh.kumar@nexoraai.com",
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "Nexora AI"
+  },
+  {
+    "contact_id": "C-1018",
+    "name": "Sarah Johnson",
+    "job_title": "VP Product",
+    "email": "sarah.johnson@cloudfusion.com",
+    "phone": "+1-5918525804",
+    "decision_power": "yes",
+    "company_name": "CloudFusion"
+  },
+  {
+    "contact_id": "C-1019",
+    "name": "Rajesh Kumar",
+    "job_title": "COO",
+    "email": null,
+    "phone": "+1-2850884557",
+    "decision_power": "no",
+    "company_name": "CloudFusion"
+  },
+  {
+    "contact_id": "C-1020",
+    "name": "Maya Patel",
+    "job_title": "Marketing Director",
+    "email": "maya.patel@astramanufacturing.com",
+    "phone": "+1-3692640782",
+    "decision_power": "maybe",
+    "company_name": "Astra Manufacturing"
+  },
+  {
+    "contact_id": "C-1021",
+    "name": "Elena Garcia",
+    "job_title": "Finance Lead",
+    "email": "elena.garcia@finedgesystems.com",
+    "phone": "+1-5598538662",
+    "decision_power": "yes",
+    "company_name": "FinEdge Systems"
+  },
+  {
+    "contact_id": "C-1022",
+    "name": "Omar Khalid",
+    "job_title": "Finance Lead",
+    "email": null,
+    "phone": "+1-4105351190",
+    "decision_power": "maybe",
+    "company_name": "FinEdge Systems"
+  },
+  {
+    "contact_id": "C-1023",
+    "name": "Chloe Martin",
+    "job_title": "VP Product",
+    "email": null,
+    "phone": null,
+    "decision_power": "no",
+    "company_name": "FinEdge Systems"
+  },
+  {
+    "contact_id": "C-1024",
+    "name": "Rajesh Kumar",
+    "job_title": "CTO",
+    "email": "rajesh.kumar@nexoraai.com",
+    "phone": null,
+    "decision_power": "maybe",
+    "company_name": "Nexora AI"
+  },
+  {
+    "contact_id": "C-1025",
+    "name": "Omar Khalid",
+    "job_title": "CMO",
+    "email": "omar.khalid@growthtech.com",
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "GrowthTech"
+  },
+  {
+    "contact_id": "C-1026",
+    "name": "Rajesh Kumar",
+    "job_title": "Head of Sales",
+    "email": "rajesh.kumar@mercuryconsulting.com",
+    "phone": null,
+    "decision_power": "maybe",
+    "company_name": "Mercury Consulting"
+  },
+  {
+    "contact_id": "C-1027",
+    "name": "Maya Patel",
+    "job_title": "CMO",
+    "email": "maya.patel@astramanufacturing.com",
+    "phone": null,
+    "decision_power": "yes",
+    "company_name": "Astra Manufacturing"
+  },
+  {
+    "contact_id": "C-1028",
+    "name": "Omar Khalid",
+    "job_title": "Head of Growth",
+    "email": null,
+    "phone": "+1-2851605823",
+    "decision_power": "no",
+    "company_name": "GrowthTech"
+  },
+  {
+    "contact_id": "C-1029",
+    "name": "Omar Khalid",
+    "job_title": "CTO",
+    "email": "omar.khalid@greenlineenergy.com",
+    "phone": "+1-8250583100",
+    "decision_power": "yes",
+    "company_name": "GreenLine Energy"
+  },
+  {
+    "contact_id": "C-1030",
+    "name": "Elena Garcia",
+    "job_title": "Head of Sales",
+    "email": null,
+    "phone": "+1-6582385607",
+    "decision_power": "maybe",
+    "company_name": "GreenLine Energy"
+  },
+  {
+    "contact_id": "C-1031",
+    "name": "Priya Sharma",
+    "job_title": "VP of Operations",
+    "email": "",
+    "phone": "",
+    "decision_power": "maybe",
+    "company_id": "CO-2031"
+  },
+  {
+    "contact_id": "C-1032",
+    "name": "Ravi",
+    "job_title": "CIO",
+    "email": "",
+    "phone": "",
+    "decision_power": "yes",
+    "company_id": "CO-2032"
+  },
+  {
+    "contact_id": "C-1033",
+    "name": "Anita",
+    "job_title": "CFO",
+    "email": "",
+    "phone": "",
+    "decision_power": "yes",
+    "company_id": "CO-2032"
+  },
+  {
+    "contact_id": "C-1034",
+    "name": "Sonal",
+    "job_title": "Head of Compliance",
+    "email": "",
+    "phone": "",
+    "decision_power": "maybe",
+    "company_id": "CO-2032"
+  },
+  {
+    "contact_id": "C-1035",
+    "name": "Karan",
+    "job_title": "Political Analyst",
+    "email": "",
+    "phone": "",
+    "decision_power": "maybe",
+    "company_id": "CO-2032"
+  },
+  {
+    "contact_id": "C-1036",
+    "name": "Priya Sharma",
+    "job_title": "Head of Strategy",
+    "email": "",
+    "phone": "",
+    "decision_power": "maybe",
+    "company_id": "CO-2033"
+  }
+]

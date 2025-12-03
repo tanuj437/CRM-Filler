@@ -1,0 +1,419 @@
+[
+  {
+    "deal_id": "D-3001",
+    "company_name": "Mercury Consulting",
+    "deal_name": "Mercury Consulting - CMO Opportunity",
+    "value": null,
+    "currency": null,
+    "stage": "ClosedWon",
+    "timeline": "next quarter",
+    "next_steps": "Follow-up meeting",
+    "competitors": [
+      "Freshworks"
+    ]
+  },
+  {
+    "deal_id": "D-3002",
+    "company_name": "GrowthTech",
+    "deal_name": "GrowthTech - Head of Growth Opportunity",
+    "value": 24655,
+    "currency": "INR",
+    "stage": "Proposal",
+    "timeline": "next quarter",
+    "next_steps": "Follow-up meeting",
+    "competitors": []
+  },
+  {
+    "deal_id": "D-3003",
+    "company_name": "Mercury Consulting",
+    "deal_name": "Mercury Consulting - Head of Sales Opportunity",
+    "value": 29268,
+    "currency": "USD",
+    "stage": "Discovery",
+    "timeline": "within 3 months",
+    "next_steps": "Send proposal",
+    "competitors": [
+      "Oracle"
+    ]
+  },
+  {
+    "deal_id": "D-3004",
+    "company_name": "GrowthTech",
+    "deal_name": "GrowthTech - Engineering Manager Opportunity",
+    "value": 31395,
+    "currency": "USD",
+    "stage": "Negotiation",
+    "timeline": "Q4 2025",
+    "next_steps": "Share pricing",
+    "competitors": [
+      "HubSpot"
+    ]
+  },
+  {
+    "deal_id": "D-3005",
+    "company_name": "Mercury Consulting",
+    "deal_name": "Mercury Consulting - Engineering Manager Opportunity",
+    "value": 1803301,
+    "currency": "EUR",
+    "stage": "Demo",
+    "timeline": "within 3 months",
+    "next_steps": "Share pricing",
+    "competitors": [
+      "Marketo"
+    ]
+  },
+  {
+    "deal_id": "D-3006",
+    "company_name": "Nexora AI",
+    "deal_name": "Nexora AI - Procurement Manager Opportunity",
+    "value": 654961,
+    "currency": "EUR",
+    "stage": "Discovery",
+    "timeline": "within 3 months",
+    "next_steps": "Share pricing",
+    "competitors": [
+      "Freshworks"
+    ]
+  },
+  {
+    "deal_id": "D-3007",
+    "company_name": "BlueWave Analytics",
+    "deal_name": "BlueWave Analytics - CTO Opportunity",
+    "value": 91479,
+    "currency": "AUD",
+    "stage": "Negotiation",
+    "timeline": "next quarter",
+    "next_steps": null,
+    "competitors": []
+  },
+  {
+    "deal_id": "D-3008",
+    "company_name": "Nexora AI",
+    "deal_name": "Nexora AI - COO Opportunity",
+    "value": 44847,
+    "currency": "INR",
+    "stage": "Negotiation",
+    "timeline": "Q4 2025",
+    "next_steps": "Share pricing",
+    "competitors": [
+      "Freshworks"
+    ]
+  },
+  {
+    "deal_id": "D-3009",
+    "company_name": "CloudFusion",
+    "deal_name": "CloudFusion - VP Product Opportunity",
+    "value": 1944905,
+    "currency": "EUR",
+    "stage": "Discovery",
+    "timeline": "Q4 2025",
+    "next_steps": null,
+    "competitors": [
+      "Pipedrive"
+    ]
+  },
+  {
+    "deal_id": "D-3010",
+    "company_name": "Astra Manufacturing",
+    "deal_name": "Astra Manufacturing - CMO Opportunity",
+    "value": null,
+    "currency": null,
+    "stage": "ClosedLost",
+    "timeline": "ASAP",
+    "next_steps": "Share pricing",
+    "competitors": [
+      "Pipedrive"
+    ]
+  },
+  {
+    "deal_id": "D-3011",
+    "company_name": "GreenLine Energy",
+    "deal_name": "GreenLine Energy - CMO Opportunity",
+    "value": 157110,
+    "currency": "GBP",
+    "stage": "Demo",
+    "timeline": "ASAP",
+    "next_steps": null,
+    "competitors": [
+      "Oracle"
+    ]
+  },
+  {
+    "deal_id": "D-3012",
+    "company_name": "GrowthTech",
+    "deal_name": "GrowthTech - COO Opportunity",
+    "value": 29391,
+    "currency": "EUR",
+    "stage": "Negotiation",
+    "timeline": "ASAP",
+    "next_steps": "Schedule demo",
+    "competitors": [
+      "HubSpot"
+    ]
+  },
+  {
+    "deal_id": "D-3013",
+    "company_name": "GrowthTech",
+    "deal_name": "GrowthTech - Engineering Manager Opportunity",
+    "value": 62944,
+    "currency": "INR",
+    "stage": "Discovery",
+    "timeline": "by end of Q3",
+    "next_steps": "Technical call",
+    "competitors": []
+  },
+  {
+    "deal_id": "D-3014",
+    "company_name": "CloudFusion",
+    "deal_name": "CloudFusion - Procurement Manager Opportunity",
+    "value": 114372,
+    "currency": "GBP",
+    "stage": "ClosedLost",
+    "timeline": null,
+    "next_steps": null,
+    "competitors": [
+      "Salesforce"
+    ]
+  },
+  {
+    "deal_id": "D-3015",
+    "company_name": "Nexora AI",
+    "deal_name": "Nexora AI - VP Product Opportunity",
+    "value": 1802111,
+    "currency": "EUR",
+    "stage": "Discovery",
+    "timeline": null,
+    "next_steps": "Send proposal",
+    "competitors": [
+      "Marketo"
+    ]
+  },
+  {
+    "deal_id": "D-3016",
+    "company_name": "FinEdge Systems",
+    "deal_name": "FinEdge Systems - Head of Sales Opportunity",
+    "value": 27291,
+    "currency": "EUR",
+    "stage": "ClosedLost",
+    "timeline": "within 3 months",
+    "next_steps": "Follow-up meeting",
+    "competitors": [
+      "Salesforce"
+    ]
+  },
+  {
+    "deal_id": "D-3017",
+    "company_name": "Nexora AI",
+    "deal_name": "Nexora AI - Engineering Manager Opportunity",
+    "value": 331613,
+    "currency": "INR",
+    "stage": "Discovery",
+    "timeline": null,
+    "next_steps": "Technical call",
+    "competitors": []
+  },
+  {
+    "deal_id": "D-3018",
+    "company_name": "CloudFusion",
+    "deal_name": "CloudFusion - VP Product Opportunity",
+    "value": 47287,
+    "currency": "EUR",
+    "stage": "Proposal",
+    "timeline": "within 3 months",
+    "next_steps": "Follow-up meeting",
+    "competitors": [
+      "Zoho"
+    ]
+  },
+  {
+    "deal_id": "D-3019",
+    "company_name": "CloudFusion",
+    "deal_name": "CloudFusion - COO Opportunity",
+    "value": 86995,
+    "currency": "USD",
+    "stage": "Lead",
+    "timeline": null,
+    "next_steps": null,
+    "competitors": []
+  },
+  {
+    "deal_id": "D-3020",
+    "company_name": "Astra Manufacturing",
+    "deal_name": "Astra Manufacturing - Marketing Director Opportunity",
+    "value": 124385,
+    "currency": "AUD",
+    "stage": "Proposal",
+    "timeline": "by end of Q3",
+    "next_steps": "Technical call",
+    "competitors": [
+      "Freshworks"
+    ]
+  },
+  {
+    "deal_id": "D-3021",
+    "company_name": "FinEdge Systems",
+    "deal_name": "FinEdge Systems - Finance Lead Opportunity",
+    "value": 1669986,
+    "currency": "EUR",
+    "stage": "Discovery",
+    "timeline": "ASAP",
+    "next_steps": null,
+    "competitors": [
+      "Freshworks"
+    ]
+  },
+  {
+    "deal_id": "D-3022",
+    "company_name": "FinEdge Systems",
+    "deal_name": "FinEdge Systems - Finance Lead Opportunity",
+    "value": 884405,
+    "currency": "AUD",
+    "stage": "Discovery",
+    "timeline": "next quarter",
+    "next_steps": "Follow-up meeting",
+    "competitors": [
+      "Salesforce"
+    ]
+  },
+  {
+    "deal_id": "D-3023",
+    "company_name": "FinEdge Systems",
+    "deal_name": "FinEdge Systems - VP Product Opportunity",
+    "value": 206296,
+    "currency": "AUD",
+    "stage": "ClosedWon",
+    "timeline": null,
+    "next_steps": "Share pricing",
+    "competitors": [
+      "Zoho"
+    ]
+  },
+  {
+    "deal_id": "D-3024",
+    "company_name": "Nexora AI",
+    "deal_name": "Nexora AI - CTO Opportunity",
+    "value": 80377,
+    "currency": "INR",
+    "stage": "ClosedLost",
+    "timeline": null,
+    "next_steps": "Share pricing",
+    "competitors": [
+      "Salesforce"
+    ]
+  },
+  {
+    "deal_id": "D-3025",
+    "company_name": "GrowthTech",
+    "deal_name": "GrowthTech - CMO Opportunity",
+    "value": 1242643,
+    "currency": "AUD",
+    "stage": "ClosedLost",
+    "timeline": null,
+    "next_steps": "Follow-up meeting",
+    "competitors": [
+      "Salesforce"
+    ]
+  },
+  {
+    "deal_id": "D-3026",
+    "company_name": "Mercury Consulting",
+    "deal_name": "Mercury Consulting - Head of Sales Opportunity",
+    "value": 24236,
+    "currency": "EUR",
+    "stage": "Demo",
+    "timeline": "Q4 2025",
+    "next_steps": "Share pricing",
+    "competitors": [
+      "HubSpot"
+    ]
+  },
+  {
+    "deal_id": "D-3027",
+    "company_name": "Astra Manufacturing",
+    "deal_name": "Astra Manufacturing - CMO Opportunity",
+    "value": 85426,
+    "currency": "EUR",
+    "stage": "ClosedWon",
+    "timeline": "next quarter",
+    "next_steps": "Share pricing",
+    "competitors": []
+  },
+  {
+    "deal_id": "D-3028",
+    "company_name": "GrowthTech",
+    "deal_name": "GrowthTech - Head of Growth Opportunity",
+    "value": null,
+    "currency": null,
+    "stage": "ClosedLost",
+    "timeline": null,
+    "next_steps": "Send proposal",
+    "competitors": [
+      "Marketo"
+    ]
+  },
+  {
+    "deal_id": "D-3029",
+    "company_name": "GreenLine Energy",
+    "deal_name": "GreenLine Energy - CTO Opportunity",
+    "value": 23277,
+    "currency": "GBP",
+    "stage": "Negotiation",
+    "timeline": "Q4 2025",
+    "next_steps": "Send proposal",
+    "competitors": [
+      "Pipedrive"
+    ]
+  },
+  {
+    "deal_id": "D-3030",
+    "company_name": "GreenLine Energy",
+    "deal_name": "GreenLine Energy - Head of Sales Opportunity",
+    "value": 47337,
+    "currency": "INR",
+    "stage": "ClosedWon",
+    "timeline": null,
+    "next_steps": "Send proposal",
+    "competitors": [
+      "Oracle"
+    ]
+  },
+  {
+    "deal_id": "D-3031",
+    "company_name": "Quantum Nexus",
+    "deal_name": "Quantum Nexus - VP of Operations Opportunity",
+    "value": 48000,
+    "currency": "USD",
+    "stage": "Discovery",
+    "timeline": "within 2 months",
+    "next_steps": "Send proposal with pricing breakdown and implementation roadmap",
+    "competitors": [
+      "HubSpot",
+      "Freshworks"
+    ]
+  },
+  {
+    "deal_id": "D-3032",
+    "company_name": "",
+    "deal_name": "IT Services Budget & Infrastructure Upgrade Initiative",
+    "value": "Unknown",
+    "currency": "",
+    "stage": "Budgeting",
+    "timeline": "Finalize revised IT budget by Monday",
+    "next_steps": "CIO to prepare revised IT budget document separating compliance-driven must-haves, operational efficiency improvements, and innovation items; Compliance Head to map initiatives to DPDP, ISO 27001, and SOC2 clauses; Political Analyst to add political-risk note for board package; CFO to negotiate for higher internal budget allocation",
+    "competitors": []
+  },
+  {
+    "deal_id": "D-3033",
+    "company_name": "DataForge Labs",
+    "deal_name": "Analytics Automation Evaluation - DataForge Labs",
+    "value": 155000,
+    "currency": "USD",
+    "stage": "Evaluation",
+    "timeline": "ASAP",
+    "next_steps": "Schedule and conduct technical deep-dive meeting with engineering team.",
+    "competitors": [
+      "Salesforce",
+      "Oracle"
+    ]
+  }
+]

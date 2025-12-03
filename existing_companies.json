@@ -1,0 +1,79 @@
+[
+  {
+    "company_id": "CO-2026",
+    "name": "Mercury Consulting",
+    "industry": "Energy",
+    "size": "SMB",
+    "location": "Berlin, Germany"
+  },
+  {
+    "company_id": "CO-2028",
+    "name": "GrowthTech",
+    "industry": "SaaS",
+    "size": "SMB",
+    "location": "Berlin, Germany"
+  },
+  {
+    "company_id": "CO-2024",
+    "name": "Nexora AI",
+    "industry": "SaaS",
+    "size": "Mid",
+    "location": "Mumbai, India"
+  },
+  {
+    "company_id": "CO-2007",
+    "name": "BlueWave Analytics",
+    "industry": "Manufacturing",
+    "size": "Mid",
+    "location": "Berlin, Germany"
+  },
+  {
+    "company_id": "CO-2019",
+    "name": "CloudFusion",
+    "industry": "SaaS",
+    "size": "Mid",
+    "location": "London, UK"
+  },
+  {
+    "company_id": "CO-2027",
+    "name": "Astra Manufacturing",
+    "industry": "FinTech",
+    "size": "Mid",
+    "location": "Mumbai, India"
+  },
+  {
+    "company_id": "CO-2030",
+    "name": "GreenLine Energy",
+    "industry": "FinTech",
+    "size": "SMB",
+    "location": "Bengaluru, India"
+  },
+  {
+    "company_id": "CO-2023",
+    "name": "FinEdge Systems",
+    "industry": "MarTech",
+    "size": "Mid",
+    "location": "Bengaluru, India"
+  },
+  {
+    "company_id": "CO-2031",
+    "name": "Quantum Nexus",
+    "industry": "SaaS",
+    "size": "Mid-size (~250 employees)",
+    "location": "Pune, India"
+  },
+  {
+    "company_id": "CO-2032",
+    "name": "",
+    "industry": "",
+    "size": "",
+    "location": ""
+  },
+  {
+    "company_id": "CO-2033",
+    "name": "DataForge Labs",
+    "industry": "Consulting",
+    "size": "Enterprise",
+    "location": "Singapore"
+  }
+]

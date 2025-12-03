@@ -1,0 +1,272 @@
+[
+  {
+    "meeting_id": "M-4001",
+    "contact_name": "Liu Wei",
+    "company_name": "Mercury Consulting",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Liu Wei, CMO at Mercury Consulting. They are a Manufacturing company (~Enterprise size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. They are evaluating Freshworks as an alternative. Timeline: next quarter. Next: Follow-up meeting. Contact is an influencer but not final decision authority.",
+    "outcome": "Meeting recap generated for Mercury Consulting",
+    "deal_linked": "D-3001"
+  },
+  {
+    "meeting_id": "M-4002",
+    "contact_name": "Liu Wei",
+    "company_name": "GrowthTech",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Liu Wei, Head of Growth at GrowthTech They are a Energy company (~SMB size) based in New York, USA They need a solution to improve automation and analytics across marketing and sales Timeline: next quarter Next: Follow-up meeting Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for GrowthTech",
+    "deal_linked": "D-3002"
+  },
+  {
+    "meeting_id": "M-4003",
+    "contact_name": "Maya Patel",
+    "company_name": "Mercury Consulting",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Maya Patel, Head of Sales at Mercury Consulting. They are a MarTech company (~SMB size) based in Mumbai, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: USD 29268. They are evaluating Oracle as an alternative. Timeline: within 3 months. Next: Send proposal. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for Mercury Consulting",
+    "deal_linked": "D-3003"
+  },
+  {
+    "meeting_id": "M-4004",
+    "contact_name": "Tom Becker",
+    "company_name": "GrowthTech",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Tom Becker, Engineering Manager at GrowthTech. They are a FinTech company (~SMB size) based in Berlin, Germany. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: USD 31395. They are evaluating HubSpot as an alternative. Timeline: Q4 2025. Next: Share pricing. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for GrowthTech",
+    "deal_linked": "D-3004"
+  },
+  {
+    "meeting_id": "M-4005",
+    "contact_name": "Sarah Johnson",
+    "company_name": "Mercury Consulting",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Sarah Johnson, Engineering Manager at Mercury Consulting. They are a Energy company (~Enterprise size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 1803301. They are evaluating Marketo as an alternative. Timeline: within 3 months. Next: Share pricing. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for Mercury Consulting",
+    "deal_linked": "D-3005"
+  },
+  {
+    "meeting_id": "M-4006",
+    "contact_name": "Rajesh Kumar",
+    "company_name": "Nexora AI",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Rajesh Kumar, Procurement Manager at Nexora AI. They are a Consulting company (~Enterprise size) based in Berlin, Germany. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 654961. They are evaluating Freshworks as an alternative. Timeline: within 3 months. Next: Share pricing. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for Nexora AI",
+    "deal_linked": "D-3006"
+  },
+  {
+    "meeting_id": "M-4007",
+    "contact_name": "Maya Patel",
+    "company_name": "BlueWave Analytics",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Maya Patel, CTO at BlueWave Analytics. They are a Manufacturing company (~Mid size) based in Berlin, Germany. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: AUD 91479. Timeline: next quarter. Contact is an influencer but not final decision authority.",
+    "outcome": "Meeting recap generated for BlueWave Analytics",
+    "deal_linked": "D-3007"
+  },
+  {
+    "meeting_id": "M-4008",
+    "contact_name": "Ana Rodrigues",
+    "company_name": "Nexora AI",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Ana Rodrigues, COO at Nexora AI. They are a Consulting company (~SMB size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: INR 44847. They are evaluating Freshworks as an alternative. Timeline: Q4 2025. Next: Share pricig. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for Nexora AI",
+    "deal_linked": "D-3008"
+  },
+  {
+    "meeting_id": "M-4009",
+    "contact_name": "Chloe Martin",
+    "company_name": "CloudFusion",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Chloe Martin, VP Product at CloudFusion. They are a MarTech company (~Enterprise size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 1944905. They are evaluating Pipedrive as an alternative. Timeline: Q4 2025. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for CloudFusion",
+    "deal_linked": "D-3009"
+  },
+  {
+    "meeting_id": "M-4010",
+    "contact_name": "Tom Becker",
+    "company_name": "Astra Manufacturing",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Tom Becker, CMO at Astra Manufacturing. They are a Manufacturing company (~Enterprise size) based in London, UK. They need a solution to improve automation and analytics across marketing and sales. They are evaluating Pipedrive as an alternative. Timeline: ASAP. Next: Share pricing. Contact is an influencer but not final decision authority.",
+    "outcome": "Meeting recap generated for Astra Manufacturing",
+    "deal_linked": "D-3010"
+  },
+  {
+    "meeting_id": "M-4011",
+    "contact_name": "Maya Patel",
+    "company_name": "GreenLine Energy",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Maya Patel, CMO at GreenLine Energy. They are a FinTech company (~Mid size) based in Berlin, Germany. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: GBP 157110. They are evaluating Oracle as an alternative. Timeline: ASAP. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for GreenLine Energy",
+    "deal_linked": "D-3011"
+  },
+  {
+    "meeting_id": "M-4012",
+    "contact_name": "Omar Khalid",
+    "company_name": "GrowthTech",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Omar Khalid, COO at GrowthTech. They are a FinTech company (~SMB size) based in Mumbai, India. They need a solution to improve automation and analytics across marketing and sales. Budget: EUR 29391. They are evaluating HubSpot as an alternative. Timeline: ASAP. Next: Schedule demo. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for GrowthTech",
+    "deal_linked": "D-3012"
+  },
+  {
+    "meeting_id": "M-4013",
+    "contact_name": "Jacob Stein",
+    "company_name": "GrowthTech",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Jacob Stein, Engineering Manager at GrowthTech. They are a FinTech company (~Mid size) based in London, UK. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: INR 62944. Timeline: by end of Q3. Next: Technical call. Contact is an influencer but not final decision authority.",
+    "outcome": "Meeting recap generated for GrowthTech",
+    "deal_linked": "D-3013"
+  },
+  {
+    "meeting_id": "M-4014",
+    "contact_name": "Ana Rodrigues",
+    "company_name": "CloudFusion",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Ana Rodrigues, Procurement Manager at CloudFusion. They are a Manufacturing company (~Mid size) based in Mumbai, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: GBP 114372. They are evaluating Salesforce as an alternative. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for CloudFusion",
+    "deal_linked": "D-3014"
+  },
+  {
+    "meeting_id": "M-4015",
+    "contact_name": "Liu Wei",
+    "company_name": "Nexora AI",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Liu Wei, VP Product at Nexora AI. They are a MarTech company (~Enterprise size) based in Berlin, Germany. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 1802111. They are evaluating Marketo as an alternative. Next: Send proposal. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for Nexora AI",
+    "deal_linked": "D-3015"
+  },
+  {
+    "meeting_id": "M-4016",
+    "contact_name": "Omar Khalid",
+    "company_name": "FinEdge Systems",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Omar Khalid, Head of Sales at FinEdge Systems. They are a FinTech company (~SMB size) based in London, UK. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 27291. They are evaluating Salesforce as an alternative. Timeline: within 3 months. Next: Follow-up meeting. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for FinEdge Systems",
+    "deal_linked": "D-3016"
+  },
+  {
+    "meeting_id": "M-4017",
+    "contact_name": "Rajesh Kumar",
+    "company_name": "Nexora AI",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Rajesh Kumar, Engineering Manager at Nexora AI. They are a Manufacturing company (~Enterprise size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: INR 331613. Next: Technical call. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for Nexora AI",
+    "deal_linked": "D-3017"
+  },
+  {
+    "meeting_id": "M-4018",
+    "contact_name": "Sarah Johnson",
+    "company_name": "CloudFusion",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Sarah Johnson, VP Product at CloudFusion. They are a MarTech company (~SMB size) based in Mumbai, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 47287. They are evaluating Zoho as an alternative. Timeline: within 3 months. Next: Follow-up meeting. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for CloudFusion",
+    "deal_linked": "D-3018"
+  },
+  {
+    "meeting_id": "M-4019",
+    "contact_name": "Rajesh Kumar",
+    "company_name": "CloudFusion",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Rajesh Kumar, COO at CloudFusion. They are a SaaS company (~Mid size) based in London, UK. They need a solution to improve automation and analytics across marketing and sales. Budget: USD 86995. Contact is an influencer but not final decision authority.",
+    "outcome": "Meeting recap generated for CloudFusion",
+    "deal_linked": "D-3019"
+  },
+  {
+    "meeting_id": "M-4020",
+    "contact_name": "Maya Patel",
+    "company_name": "Astra Manufacturing",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Maya Patel, Marketing Director at Astra Manufacturing. They are a Consulting company (~Mid size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: AUD 124385. They are evaluating Freshworks as an alternative. Timeline: by end of Q3. Next: Technical call. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for Astra Manufacturing",
+    "deal_linked": "D-3020"
+  },
+  {
+    "meeting_id": "M-4021",
+    "contact_name": "Elena Garcia",
+    "company_name": "FinEdge Systems",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Elena Garcia, Finance Lead at FinEdge Systems. They are a Energy company (~Enterprise size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 1669986. They are evaluating Freshworks as an alternative. Timeline: ASAP. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for FinEdge Systems",
+    "deal_linked": "D-3021"
+  },
+  {
+    "meeting_id": "M-4022",
+    "contact_name": "Omar Khalid",
+    "company_name": "FinEdge Systems",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Omar Khalid, Finance Lead at FinEdge Systems. They are a MarTech company (~Enterprise size) based in London, UK. They need a solution to improve automation and analytics across marketing and sales. Budget: AUD 884405. They are evaluating Salesforce as an alternative. Timeline: next quarter. Next: Follow-up meeting. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for FinEdge Systems",
+    "deal_linked": "D-3022"
+  },
+  {
+    "meeting_id": "M-4023",
+    "contact_name": "Chloe Martin",
+    "company_name": "FinEdge Systems",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Chloe Martin, VP Product at FinEdge Systems. They are a MarTech company (~Mid size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: AUD 206296. They are evaluating Zoho as an alternative. Next: Share pricing. Contact is an influencer but not final decision authority.",
+    "outcome": "Meeting recap generated for FinEdge Systems",
+    "deal_linked": "D-3023"
+  },
+  {
+    "meeting_id": "M-4024",
+    "contact_name": "Rajesh Kumar",
+    "company_name": "Nexora AI",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Rajesh Kumar, CTO at Nexora AI. They are a SaaS company (~Mid size) based in Mumbai, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: INR 80377. They are evaluating Salesforce as an alternative. Next: Share pricing. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for Nexora AI",
+    "deal_linked": "D-3024"
+  },
+  {
+    "meeting_id": "M-4025",
+    "contact_name": "Omar Khalid",
+    "company_name": "GrowthTech",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Omar Khalid, CMO at GrowthTech They are a Consulting company (~Enterprise size) based in Bengaluru, India They need a solution to improve automation and analytics across marketing and sales They are evaluating Salesforce as an alternative Next: Follow-up meeting Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for GrowthTech",
+    "deal_linked": "D-3025"
+  },
+  {
+    "meeting_id": "M-4026",
+    "contact_name": "Rajesh Kumar",
+    "company_name": "Mercury Consulting",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Rajesh Kumar, Head of Sales at Mercury Consulting. They are a Energy company (~SMB size) based in Berlin, Germany. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 24236. They are evaluating HubSpot as an alternative. Timeline: Q4 2025. Next: Share pricing. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for Mercury Consulting",
+    "deal_linked": "D-3026"
+  },
+  {
+    "meeting_id": "M-4027",
+    "contact_name": "Maya Patel",
+    "company_name": "Astra Manufacturing",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Maya Patel, CMO at Astra Manufacturing. They are a FinTech company (~Mid size) based in Mumbai, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: EUR 85426. Timeline: next quarter. Next: Share pricing. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for Astra Manufacturing",
+    "deal_linked": "D-3027"
+  },
+  {
+    "meeting_id": "M-4028",
+    "contact_name": "Omar Khalid",
+    "company_name": "GrowthTech",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Omar Khalid, Head of Growth at GrowthTech. They are a SaaS company (~SMB size) based in Berlin, Germany. They need a solution to improve automation and analytics across marketing and sales. They are evaluating Marketo as an alternative. Next: Send proposal. Contact is an influencer but not final decision authority.",
+    "outcome": "Meeting recap generated for GrowthTech",
+    "deal_linked": "D-3028"
+  },
+  {
+    "meeting_id": "M-4029",
+    "contact_name": "Omar Khalid",
+    "company_name": "GreenLine Energy",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Omar Khalid, CTO at GreenLine Energy. They are a Energy company (~SMB size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: GBP 23277. They are evaluating Pipedrive as an alternative. Timeline: Q4 2025. Next: Send proposal. Contact is a decision-maker.",
+    "outcome": "Meeting recap generated for GreenLine Energy",
+    "deal_linked": "D-3029"
+  },
+  {
+    "meeting_id": "M-4030",
+    "contact_name": "Elena Garcia",
+    "company_name": "GreenLine Energy",
+    "timestamp": "2025-01-01T12:00:00Z",
+    "summary": "Had a meeting with Elena Garcia, Head of Sales at GreenLine Energy. They are a FinTech company (~SMB size) based in Bengaluru, India. They need a solution to improve automation and analytics across marketing and sales. Budget discussed: INR 47337. They are evaluating Oracle as an alternative. Next: Send proposal. Contact appears influential but may escalate decisions.",
+    "outcome": "Meeting recap generated for GreenLine Energy",
+    "deal_linked": "D-3030"
+  }
+]
